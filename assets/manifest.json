@@ -1,0 +1,18 @@
+{
+        "name": "DomCorts",
+        "short_name" :"Corts",
+        "dom_url": ".http://127.0.0.1:2130/escolheruser",
+        "display": "standalone",
+        "backround_color": "#FFFFFF",
+        "theme_color": "#038f75",
+        "description": "Barbearia",
+        "orientation": "natural",
+        "prefer_related_aplications": false,
+        "icons":[
+            {
+                "src": "assets/icons/bb.png",
+                "sizes": "1005x1536",
+                "type": "image/png"
+            }
+        ]
+}
